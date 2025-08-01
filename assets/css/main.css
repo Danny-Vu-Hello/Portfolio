@@ -329,13 +329,16 @@ h6 {
 }
 
 .footer .copyright {
-  padding-top: 25px;
+  padding-top: 12px;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  font-size: 6px;
+  color: c9c9c9;
 }
 
 .footer .credits {
-  font-size: 13px;
-  padding-top: 5px;
+  font-size: 6px;
+  padding-top: 2px;
+  color: c9c9c9;
 }
 
 /*--------------------------------------------------------------
